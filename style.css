@@ -5,7 +5,12 @@
 body {
     background-color: var(--cor-de-fundo);
 }
-
+ S- - -fonte-principal: "Poppins"
 h1 {
     background-color: white;
+}
+ 
+font-family: Var ( - - fonte-principal);
+font-size:16px
+font-weight:400;
 }
