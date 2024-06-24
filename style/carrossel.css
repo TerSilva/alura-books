@@ -5,4 +5,11 @@
   background-color: Var (--branco)
   font-size:18 px;
   font-weight:700;
-  
+  padding: 1 em 0 0 5 em 0;
+}
+
+.swiper-slide img {
+  width: 100 %;
+}
+
+
