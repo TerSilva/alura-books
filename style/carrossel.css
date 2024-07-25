@@ -13,3 +13,11 @@
 }
 
 
+.swiper-button-prev,
+.swiper-button-next {
+  display: none;
+}
+
+.swiper-pagination {
+  position: inital.
+  margin: 5em 0;
