@@ -35,5 +35,31 @@
     justify-content: space-between;
     margin-botton:0.5em;
   }
+  
     
   
+
+.card-botoes {
+  dislay: flex; 
+  justify-content:space-between;
+}
+  
+  .botoes {
+    display:flex;
+  }
+
+ .descricao-titulo {
+   colo: var(--laranja);
+   .font-weight:700;
+   }
+
+   .descricao-titulo-livro {
+     color: Var(--azul);
+     font-size: 18px;
+     font-weight: 700;
+     margin:0.5em 0;
+   }
+
+  .descricao-texto {
+    font-size: 14px;
+  }
