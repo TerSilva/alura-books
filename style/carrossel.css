@@ -63,3 +63,25 @@
   .descricao-texto {
     font-size: 14px;
   }
+
+
+  .botoes__ancora {
+    background-color: Var (--laranja)
+    padding: 1em 2.2em;
+    color: Var(--branco);
+    font-weight: 700;
+    text-decoration:none;
+  }
+
+  .botoes-item {
+    margin:0 0.5em;
+  }
+
+  hr {
+    margin: 0;
+  }
+
+  .rodape {
+    background-color: Var(--branco);
+    .padding: 1em;
+  }
